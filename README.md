@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samolevich2017&show_icons=true&theme=radical&locale=en" alt="samolevich2017" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samolevich2017&theme=dark" alt="samolevich2017" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samolevich2017&theme=radical" alt="samolevich2017" /></p>
